@@ -1,5 +1,3 @@
-import email
-
 from fastapi import APIRouter, Depends, HTTPException
 from models import Usuario, db
 from sqlalchemy.orm import Session
