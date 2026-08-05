@@ -1,0 +1,16 @@
+# Dependências / ambiente
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente (contém senhas/segredos)
+.env
+
+# Bancos de dados
+*.db
+*.sqlite3
+
+# Editor
+.vscode/
+.idea/
